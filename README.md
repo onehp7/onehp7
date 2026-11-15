@@ -56,7 +56,7 @@ I spot repetitive problems at work and figure out the best way to build software
 
 I'm interested in building practical technology that makes a meaningful difference in how people work. I enjoy the intersection of technical problem-solving, creative design, and human interaction.
 
-I believe good software isn't just about what it can do — it's also about how easily people can use it.
+I believe good software isn't just about what it can do - it's also about how easily people can use it.
 
 ---
 
