@@ -32,7 +32,8 @@ I spot repetitive problems at work and figure out the best way to build software
 
 <img src="assets/feat_projs.png" alt="Featured projects" width="100%">
 
-### 🗺️ BuildingMap: Interactive Building Map App
+<img src="assets/ibma.png" alt="BuildingMap: Interactive Building Map App" width="100%">
+
 **The problem:** The Health & Safety team had to redraw floor plans by hand and add asset images via Canva, then track assets' life cycles (last inspection, expiry, etc) in another app.
 
 **The solution:** My application brings those processes together in one self-contained workspace. Upload a PDF floor plan, section off rooms with the line tool, name them, add text, and place vector assets like fire extinguishers. Track when each asset was last serviced or inspected and when it's due next, then export and print. It works like Canva but runs on your own device, so confidential data stays in-house.
@@ -42,7 +43,8 @@ I spot repetitive problems at work and figure out the best way to build software
 ![BuildingMap screenshot](example_floor_plan.png)
 ![BuildingMap screenshot](floormap_darkmode.png)
 
-### 🔌 PortMap: Network Data Room Mapper
+<img src="assets/portmap_banner.png" alt="PortMap: Network Data Room Mapper" width="100%">
+
 **The problem:** IT needed to know which switch port connects to which before a major network overhaul, and a spreadsheet wasn't going to cut it.
 
 **The solution:** An interactive visual representation of physical network infrastructure - a browser-based, cached app that's a digital copy of your data room. Add switches to a rack (PoE, Aggregate, etc.), pick wire colours, and map port A to port B, with wires that dangle like the real thing. Multiple data rooms can be attached to a building map.
