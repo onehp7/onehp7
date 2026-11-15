@@ -1,4 +1,3 @@
-<img width="104" height="128" alt="8007-kirbylink" src="https://github.com/user-attachments/assets/1d0d8fb2-fd15-4ecb-8a81-32fb2f052b8c" />
 <div align="center">
 
 <!-- Banner: create a 1200x300 image and put it in assets/banner.png -->
@@ -17,6 +16,8 @@ Computer Science Graduate | Creative Problem Solver | Software Development | Use
 I spot repetitive problems at work and figure out the best way to build software that makes someone's job easier. I start from the end user's perspective, because the best tool is the one that solves what people actually need. I love the design side too: making interfaces clear, friendly, and good-looking.
 
 ## Strengths
+
+<img width="152" height="64" alt="8007-kirbylink" src="https://github.com/user-attachments/assets/1d0d8fb2-fd15-4ecb-8a81-32fb2f052b8c" /> **Creativity** – UI/interface design that's polished and intuitive
 
 🖌 **Creativity** – UI/interface design that's polished and intuitive
 
