@@ -1,3 +1,4 @@
+<img width="104" height="128" alt="8007-kirbylink" src="https://github.com/user-attachments/assets/1d0d8fb2-fd15-4ecb-8a81-32fb2f052b8c" />
 <div align="center">
 
 <!-- Banner: create a 1200x300 image and put it in assets/banner.png -->
