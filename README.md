@@ -23,12 +23,16 @@ I spot repetitive problems at work and figure out the best way to build software
 
 💬 **Communication** – personable, and I work closely with the people I build for
 
+---
+
 <img src="assets/tech.png" alt="Tech" width="100%">
 
 ![HTML](https://img.shields.io/badge/HTML-FF4D9D?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00E5FF?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FF4D9D?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
 
 <img src="assets/feat_projs.png" alt="Featured projects" width="100%">
 
