@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: create a 1200x300 image and put it in assets/banner.png -->
-<img src="assets/banner.png" alt="Hannah's banner" width="100%">
+<img src="assets/github banner.png" alt="Hannah's banner" width="100%">
 
 # Hi, I'm Hannah 👋
 ### IT professional & builder of tools people actually enjoy using
