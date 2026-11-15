@@ -23,14 +23,14 @@ I spot repetitive problems at work and figure out the best way to build software
 
 💬 **Communication** – personable, and I work closely with the people I build for
 
-## Tech
+<img src="assets/tech.png" alt="Tech" width="100%">
 
 ![HTML](https://img.shields.io/badge/HTML-FF4D9D?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00E5FF?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-FF4D9D?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Featured projects
+<img src="assets/feat_projs.png" alt="Featured projects" width="100%">
 
 ### 🗺️ BuildingMap: Interactive Building Map App
 **The problem:** The Health & Safety team had to redraw floor plans by hand and add asset images via Canva, then track assets' life cycles (last inspection, expiry, etc) in another app.
@@ -55,7 +55,7 @@ I spot repetitive problems at work and figure out the best way to build software
 
 ---
 
-## A little more about me
+<img src="assets/more_abt_me.png" alt="A little more about me" width="100%">
 
 I'm interested in building practical technology that makes a meaningful difference in how people work. I enjoy the intersection of technical problem-solving, creative design, and human interaction.
 
