@@ -12,7 +12,7 @@ Computer Science Graduate | Creative Problem Solver | Software Development | Use
 ---
 
 ## About me
-<img src="assets/about_me" alt="About me" width="100%">
+<img src="assets/about_me.png" alt="About me" width="100%">
 
 I spot repetitive problems at work and figure out the best way to build software that makes someone's job easier. I start from the end user's perspective, because the best tool is the one that solves what people actually need. I love the design side too: making interfaces clear, friendly, and good-looking.
 
