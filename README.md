@@ -21,6 +21,9 @@ I spot repetitive problems at work and figure out the best way to build software
 
 <img width="50" height="50" alt="4605-kirbyyessign" src="https://github.com/user-attachments/assets/b391c4a0-949f-4324-a1a3-7c3eb6b27bf0" /> **Communication** – personable, and I work closely with the people I build for
 
+<img width="50" height="50" alt="16703-kirbyjump" src="https://github.com/user-attachments/assets/24730bc2-53c4-402e-b70e-7f81185e4685" /> **User-friendliness** – I dig into what end users need most!
+
+
 🖌 **Creativity** – UI/interface design that's polished and intuitive
 
 🤝 **User-friendliness** – I dig into what end users need most!
