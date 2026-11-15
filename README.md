@@ -15,7 +15,7 @@ Computer Science Graduate | Creative Problem Solver | Software Development | Use
 
 I spot repetitive problems at work and figure out the best way to build software that makes someone's job easier. I start from the end user's perspective, because the best tool is the one that solves what people actually need. I love the design side too: making interfaces clear, friendly, and good-looking.
 
-## Strengths
+<img src="assets/strengths.png" alt="Strengths" width="100%">
 
 <img width="50" height="50" alt="54860-kirbypainting" src="https://github.com/user-attachments/assets/6e282fa4-d09d-4bd1-961c-55bbfa1676e3" /> **Creativity** – UI/interface design that's polished and intuitive
 
