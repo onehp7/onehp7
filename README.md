@@ -39,7 +39,7 @@ I spot repetitive problems at work and figure out the best way to build software
 
 **The goal:** Replace repetitive manual work with an intuitive, centralized solution.
 
-![BuildingMap screenshot](assets/buildingmap.png)
+![BuildingMap screenshot](example_floor_plan.png)
 
 ### 🔌 PortMap: Network Data Room Mapper
 **The problem:** IT needed to know which switch port connects to which before a major network overhaul, and a spreadsheet wasn't going to cut it.
