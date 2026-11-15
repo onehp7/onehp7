@@ -49,6 +49,8 @@ I spot repetitive problems at work and figure out the best way to build software
 **The goal:** Make large-scale network changes easier to plan, understand, and execute.
 
 ![PortMap screenshot](switch_app_screenshot.png)
+![PortMap screenshot](patchmap_lightmode.png) 
+
 
 ---
 
