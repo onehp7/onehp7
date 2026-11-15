@@ -17,9 +17,7 @@ I spot repetitive problems at work and figure out the best way to build software
 
 ## Strengths
 
-<img src="assets/creativity.png" alt="Creativity" width="2%"> **Creativity** – UI/interface design that's polished and intuitive
-
-🎨 **Creativity** – UI/interface design that's polished and intuitive
+🖌 **Creativity** – UI/interface design that's polished and intuitive
 
 🤝 **User-friendliness** – I dig into what end users need most!
 
