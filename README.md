@@ -44,11 +44,7 @@ I spot repetitive problems at work and figure out the best way to build software
 
 **The goal:** Replace repetitive manual work with an intuitive, centralized solution.
 
-
-
-
-https://github.com/user-attachments/assets/6c65cc5a-05c8-4847-8b36-c501341f281a
-
+<img width="800" height="419" alt="ibmagif" src="https://github.com/user-attachments/assets/16489de3-fa95-4914-b44d-7f8820e1430f" />
 
 ![BuildingMap screenshot](example_floor_plan.png)
 ![BuildingMap screenshot](floormap_darkmode.png)
