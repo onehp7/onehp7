@@ -3,7 +3,8 @@
 <!-- Banner: create a 1200x300 image and put it in assets/banner.png -->
 <img src="assets/banner2.png" alt="Hannah's banner" width="100%">
 
-# Hi, I'm Hannah 👋
+# Hi, I'm Hannah <img width="61" height="58" alt="2213-kirbywave" src="https://github.com/user-attachments/assets/c5dbbf63-4f81-4b18-945c-d994af255746" />
+
 ### IT professional & builder of tools people actually enjoy using
 Computer Science Graduate | Creative Problem Solver | Software Development | User-Focused Design
 
