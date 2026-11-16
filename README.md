@@ -4,6 +4,7 @@
 <img src="assets/banner2.png" alt="Hannah's banner" width="100%">
 
 <img width="51" height="48" alt="2213-kirbywave" src="https://github.com/user-attachments/assets/c5dbbf63-4f81-4b18-945c-d994af255746" />
+
 # Hi, I'm Hannah 
 ### IT professional & builder of tools people actually enjoy using
 Computer Science Graduate | Creative Problem Solver | Software Development | User-Focused Design
