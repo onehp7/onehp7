@@ -62,7 +62,7 @@ I spot repetitive problems at work and figure out the best way to build software
 <img width="800" height="395" alt="portgif" src="https://github.com/user-attachments/assets/d89ead2c-1a44-41f5-aa74-5dc8362a372d" />
 </div>
 
-<img src="switch_app_screenshot.png" width="50%" alt="Patchmap screenshot"><img src="patchmap_lightmode2.png" width="50%" alt="Patchmap screenshot">
+<img src="utilisation.png" width="50%" alt="Patchmap screenshot"><img src="patchmap_lightmode2.png" width="50%" alt="Patchmap screenshot">
 
 
 ---
