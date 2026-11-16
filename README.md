@@ -48,8 +48,7 @@ I spot repetitive problems at work and figure out the best way to build software
 <img width="800" height="419" alt="ibmagif" src="https://github.com/user-attachments/assets/16489de3-fa95-4914-b44d-7f8820e1430f" />
 </div>
 
-![BuildingMap screenshot](example_floor_plan.png)
-![BuildingMap screenshot](floormap_darkmode.png)
+<img src="example_floor_plan" width="50%" alt="BuildingMap screenshot">
 <img src="floormap_darkmode.png" width="50%" alt="BuildingMap screenshot">
 
 <img src="assets/portmap_banner.png" alt="PortMap: Network Data Room Mapper" width="100%">
