@@ -50,6 +50,7 @@ I spot repetitive problems at work and figure out the best way to build software
 
 ![BuildingMap screenshot](example_floor_plan.png)
 ![BuildingMap screenshot](floormap_darkmode.png)
+<img src="floormap_darkmode.png" width="50%" alt="BuildingMap screenshot">
 
 <img src="assets/portmap_banner.png" alt="PortMap: Network Data Room Mapper" width="100%">
 
